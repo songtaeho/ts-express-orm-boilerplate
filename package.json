@@ -37,7 +37,7 @@
     "dotenv": "^8.1.0",
     "errorhandler": "^1.5.1",
     "express": "^4.17.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mysql2": "^1.7.0",
     "pug": "^2.0.4",
     "reflect-metadata": "^0.1.13",
