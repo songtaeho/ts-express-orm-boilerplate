@@ -41,7 +41,7 @@
     "mysql2": "^1.7.0",
     "pug": "^2.0.4",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.18"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@types/compression": "^1.0.1",
